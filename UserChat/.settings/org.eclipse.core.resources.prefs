@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/board/BoardDeleteServlet.java=CP949
+encoding//src/board/BoardReplyServlet.java=CP949
+encoding//src/board/BoardUpdateServlet.java=CP949
+encoding//src/board/BoardWriteServlet.java=CP949
+encoding//src/user/UserDeleteServlet.java=CP949
+encoding//src/user/UserLoginServlet.java=CP949
+encoding//src/user/UserProfileServlet.java=CP949
+encoding//src/user/UserRegisterServlet.java=CP949
+encoding//src/user/UserUpdateServlet.java=CP949
+encoding/<project>=CP949
